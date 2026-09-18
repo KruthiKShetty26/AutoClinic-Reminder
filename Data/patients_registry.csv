@@ -1,0 +1,5 @@
+Patient ID,Patient Name,Patient Email,Doctor Email,Status
+98042,Ravi Kumar,kruthikpuce@gmail.com,doctor1@example.com,Pending
+98043,Anjali Rao,kruthikpuce@gmail.com,doctor2@example.com,Pending
+98044,Suresh Nair,kruthikpuce@gmail.com,doctor4@example.com,Pending
+98045,Priya Menon,kruthikpuce@gmail.com,doctor5@example.com,Pending
